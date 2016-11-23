@@ -1,0 +1,18 @@
+{
+  "speakers": [{
+    "title" : "Python Expert",
+    "name": "Eli Byers ",
+    "shortname" : "eli_byers",
+    "summary" : "Eli is a Python enthusiast who uses his knowledge to not only use Python to for cyber security, he also teaches 40+ students Python at Coding Dojo.",
+    "description": "<p>Eli is a Python enthusiast who uses his knowledge to not only use Python to for cyber security, he also teaches 40+ students Python at Coding Dojo.</p>",
+    "artwork": [" "]
+ 
+  },{
+    "title" : "Cyber Security Expert",
+    "name": "Brendan Stanton",
+    "shortname" : "Brandon_stanton",
+    "summary": "Brendan is a Cyber Secuity expert who has  worked for mutliple companies to help secure their networks",
+    "description": "<p>Brendan is a Cyber Security Expert who has  worked for mutliple companies to help and educate them about securing their networks.  </p>",
+    "artwork" : [" "]
+  }]
+}
